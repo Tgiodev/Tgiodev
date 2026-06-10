@@ -11,7 +11,7 @@
 ## 📖 Sobre mí
 
 * 🎮 Soy desarrollador de mods de Minecraft
-* 🌎 Vivo en Argentina, trabajo remoto
+* 🌎 Salvadoreño sv, trabajo remoto
 * 💻 Desarrollador **Fullstack** apasionado por el open source
 * 🦀 Actualmente aprendiendo **Rust** y **WebAssembly**
 * 🌐 Más información sobre mí en [tgiodev.dev](https://github.com/Tgiodev)
