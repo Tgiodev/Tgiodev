@@ -59,14 +59,7 @@
 
 <hr/>
 
-## 💭 Información extra
 
-
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1356398188004905093"/>
-</p>
-
-<hr/>
 
 <h2 align="center">📌 Repositorios fijados</h2>
 <p align="center">¡Echa un vistazo a mis repositorios fijados!</p>
